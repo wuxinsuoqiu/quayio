@@ -1,0 +1,2 @@
+FROM jimmidyson/configmap-reload:v0.4.0
+MAINTAINER liyi
